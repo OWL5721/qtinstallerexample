@@ -1,0 +1,18 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.example.myapp</Name>
+  <DisplayName>My Qt Application</DisplayName>
+  <Description>This installs MyQtApp.</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2025-02-19</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="9614000" OS="Any" UncompressedSize="29297851"/>
+  <DownloadableArchives>database.7z,images.7z,platforms.7z,plugins.7z,sqldrivers.7z,content.7z</DownloadableArchives>
+  <SHA1>7c1c43f5e05bdcf029e0a45e80497798e574f567</SHA1>
+ </PackageUpdate>
+ <SHA1>eac4468b026462c22748e994e1a9cac757449e4e</SHA1>
+ <MetadataName>2025-02-19-1522_meta.7z</MetadataName>
+</Updates>
